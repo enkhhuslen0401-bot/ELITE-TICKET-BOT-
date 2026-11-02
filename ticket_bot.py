@@ -24,7 +24,7 @@ intents.members = True
 
 bot = commands.Bot(command_prefix="!", intents=intents)
 
-PANEL_CHANNEL_ID = 1566402878560665600  # Панель байрлах сувгийн ID
+PANEL_CHANNEL_ID = 1566816744901845223 # Панель байрлах сувгийн ID
 LOG_CHANNEL_ID = 1566358811223138375    # Лог сувгийн ID-гаа энд солино уу
 
 
